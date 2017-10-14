@@ -1,1 +1,1 @@
-# pChat
+ pChat is an addon to overhaul the way text is displayed in the chatbox, make your chat customizable as it should be :)
